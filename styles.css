@@ -19,11 +19,7 @@
     color: rgb(241, 177, 0);
     font-size: 90%;
 }
-<<<<<<< HEAD
 
-.sectionName2 {}
-=======
->>>>>>> 7c8ccaa7cd9e7d58f8e28d7d7985fb5aef2945bd
 
 /* PAGE 1 + HEADER */
 /* SAPANA */
@@ -93,14 +89,8 @@
     flex-wrap: wrap;
     width: 75%;
 }
-<<<<<<< HEAD
-
-.bonusesBox {
-    margin-block: 1%;
-=======
 .bonusesBox{
     margin-block: 0.8%;
->>>>>>> 7c8ccaa7cd9e7d58f8e28d7d7985fb5aef2945bd
     background-color: white;
     display: flex;
     flex-direction: column;
@@ -119,14 +109,8 @@
     font-size: 1.5rem;
     margin-bottom: 7px;
 }
-<<<<<<< HEAD
-
-.bonusBoxContent {
-    font-size: 1.2rem;
-=======
 .bonusBoxContent{
     font-size: 1.1rem;
->>>>>>> 7c8ccaa7cd9e7d58f8e28d7d7985fb5aef2945bd
     color: grey;
 }
 
