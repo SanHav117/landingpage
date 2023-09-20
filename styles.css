@@ -9,10 +9,15 @@
 }
 .sectionName1{
     margin: auto;
-    font-size: 360%;
+    font-size: 340%;
     font-weight: 700;
 }
-.sectionName2{}
+.sectionName2{font-family: 'Nunito', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Satisfy', cursive;
+    color: rgb(241, 177, 0);
+    font-size: 90%;
+}
 
 /* PAGE 1 + HEADER */
 /* SAPANA */
@@ -101,6 +106,11 @@
 
 /* PAGE 7 "Get Certified" */
 /* SANCHIT */
+
+.certTitle{
+    width: 100%;
+    text-align: center;
+}
 
 /* PAGE 8-9 "Know Your Mentor" */
 /* AHMED */
