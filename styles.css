@@ -3,15 +3,27 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+
 }
 
 .sectionName1 {
     margin: auto;
-    font-size: 360%;
-    font-weight: 500;
+    font-size: 340%;
+    font-weight: 700;
 }
+.sectionName2{font-family: 'Nunito', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Satisfy', cursive;
+    color: rgb(241, 177, 0);
+    font-size: 90%;
+}
+<<<<<<< HEAD
 
 .sectionName2 {}
+=======
+>>>>>>> 7c8ccaa7cd9e7d58f8e28d7d7985fb5aef2945bd
 
 /* PAGE 1 + HEADER */
 /* SAPANA */
@@ -81,34 +93,50 @@
     flex-wrap: wrap;
     width: 75%;
 }
+<<<<<<< HEAD
 
 .bonusesBox {
     margin-block: 1%;
+=======
+.bonusesBox{
+    margin-block: 0.8%;
+>>>>>>> 7c8ccaa7cd9e7d58f8e28d7d7985fb5aef2945bd
     background-color: white;
     display: flex;
     flex-direction: column;
     text-wrap: wrap;
     text-align: center;
-    padding-block: 2.5rem;
-    padding-inline: 2.7rem;
-    width: 15rem;
+    padding-bottom: 1.5rem;
+    padding-top: 2rem;
+    padding-inline: 1.2rem;
+    width: 18rem;
     border-radius: 10px;
     box-shadow: 0px 0px 15px -12px;
 }
 
 .bonusBoxTitle {
     font-weight: bold;
-    font-size: 1.6rem;
+    font-size: 1.5rem;
     margin-bottom: 7px;
 }
+<<<<<<< HEAD
 
 .bonusBoxContent {
     font-size: 1.2rem;
+=======
+.bonusBoxContent{
+    font-size: 1.1rem;
+>>>>>>> 7c8ccaa7cd9e7d58f8e28d7d7985fb5aef2945bd
     color: grey;
 }
 
 /* PAGE 7 "Get Certified" */
 /* SANCHIT */
+
+.certTitle{
+    width: 100%;
+    text-align: center;
+}
 
 /* PAGE 8-9 "Know Your Mentor" */
 
