@@ -1,0 +1,33 @@
+{DOCUMENTATION}
+
+--ASSIGNED SECTIONS--
+
+<!-- PAGE 7 "Get Certified" -->
+<!-- SANCHIT -->
+
+Here,
+PAGE 7 <--- Page number from 'Refer.Images.pdf'
+"Get Certified" <--- Section to Make
+SANCHIT <--- Who has to Make
+
+There are assigned sections in both the html and css file. Add your css code Accordingly.
+DO NOT add your code outside your sections.
+
+
+--/* COMMON STLYES */--
+
+This section is for adding stlyes that apply to most to a large portion of the page.
+I've added .sectionName1{black text} and .sectionName2{yellow text} here as the section titles styles are all same.
+Same for .contentFont{all content}. This font has been applied to <body>.
+
+--STANDARDS--
+
+1. Give class/id names preferably in camelcase.  Camelcase ---> writeLikeThis    (not compulsary).
+2. JavaScript MUST be in camelCase.
+3. Use % for Margins. Use % or rem for Padding whenever possible.
+4. Final Output should be as close to 'Refer_Images.pdf' as possible.
+
+Ask for help where needed and clear doubts quickly.
+Good Luck
+
+-Sanchit
